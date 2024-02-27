@@ -1,3 +1,3 @@
-# Hi! My name is Brock Hensley 👋
-# I am an aspiring full-stack developer 💻
-# I am currently pursuing a B.E in Computer Information Systems ⚙️
+Hi there 👋, Welcome to my GitHub page!
+I'm Brock I am currently a Student at the University of Dayton
+I am an aspiring full-stack developer.
