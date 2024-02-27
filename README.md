@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, Welcome to my Github page!</h2>
 <ul>
-  <li>I'm Brock, I am a student at the University of Dayton </li>
+  <li> Hello my names Brock and I am a student at the University of Dayton </li>
   <li> I am an aspiring Full-Stack Developer</li>
 </ul>
 
